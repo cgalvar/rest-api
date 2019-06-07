@@ -114,5 +114,5 @@ class RestController{
 
 }
 
-module.exports = Rest;
+module.exports = RestController;
 
